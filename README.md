@@ -1,2 +1,9 @@
-# hengenixDB
-website hosting for Hengenix database
+<!DOCTYPE html>
+<html>
+
+<body>
+    <h1>Hello World</h1>
+    <p>I'm hosted with GitHub Pages. HEHE</p>
+</body>
+
+</html>
